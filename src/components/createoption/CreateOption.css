@@ -1,0 +1,12 @@
+article {
+    background-color: aqua;
+    width: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+article select {
+    width: 30%;
+    height: 30px;
+}
